@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(59, 59, 59);
+}
+
+.navbar__css{
+    background-color: #F79f0e;
+    color: black;
+}
+
+.navbar__brand{
+    width: 100px;
+}
+
+.brand__logo{
+    width: 100%;
+}
+
+.toggle_button__css{
+    color: black;
+}
+
+/* .modal-backdrop {
+    background-color: #F79f0e;
+ } */
+
+.modal-content,.card-body,.card__body__image{
+    background-color: rgb(59, 59, 59);
+    color:#F79f0e ;
+}
+
+.close{
+    color: white;
+}
+
+.card-header,.card-footer,.button__search{
+    background-color: #f0c024;
+}
